@@ -6,8 +6,9 @@
 <!-- _For Octave/MatLab version of this repository please check [machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) project._-->
 _如果你想要学习本仓库的Octave/MatLab版本，请查看[machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) 项目。
 
-[//]: # > This repository contains examples of popular machine learning algorithms implemented in **Python** with mathematics behind them being explained. Each algorithm has interactive **Jupyter Notebook** demo that allows you to play with training data, algorithms configurations and immediately see the results, charts and predictions **right in your browser**. In most cases the explanations are based on [this great machine learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng.
-> 本仓库用python实现了最流行的深度学习算法。
+<!-- > This repository contains examples of popular machine learning algorithms implemented in **Python** with mathematics behind them being explained. Each algorithm has interactive **Jupyter Notebook** demo that allows you to play with training data, algorithms configurations and immediately see the results, charts and predictions **right in your browser**. In most cases the explanations are based on [this great machine learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng.-->
+> 本仓库用python实现了最流行的深度学习算法，以及对这些算法背后的数学原理进行了讲解。每个算法都有一个**Jupyter Notebook**形式的交互式示例，便于你在**浏览器**中就可以修改训练数据，配置算法，实时查看结果、图标和预测。大部分的算法讲解基于[this great machine learning course](https://www.coursera.org/learn/machine-learning) 作者：Andrew Ng.
+
 
 
 The purpose of this repository is _not_ to implement machine learning algorithms by using 3<sup>rd</sup> party library "one-liners" _but_ rather to practice implementing these algorithms from scratch and get better understanding of the mathematics behind each algorithm. That's why all algorithms implementations are called "homemade" and not intended to be used for production.
